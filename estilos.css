@@ -1,0 +1,33 @@
+h1 
+{
+background: red;    
+}
+
+body
+{
+  /*background: pink; */
+  background: linear-gradient(rgb(195, 37, 37), #F85050, pink, #4FFEAB);
+  height: 100vh; 
+  font-family: 'Noto Serif', serif;
+}
+
+.subtitulo
+{
+  color: orange;
+  font-size: 68px;
+  font-weight: 900;  
+}
+
+boton
+{
+  font-size: 20px
+
+  
+}
+form
+{
+  display:flex;
+  flex-direction: column;
+  width: 250px
+   
+}
